@@ -1,0 +1,10 @@
+.form_box{
+    padding: 120px 0;
+    width: 100%;
+}
+.form_box form{
+    width: 100%;
+}
+.form_box form input{
+    margin-bottom: 12px;
+}

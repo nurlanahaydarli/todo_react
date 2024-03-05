@@ -1,0 +1,16 @@
+.btn{
+    padding: 6px 16px;
+    cursor: pointer;
+}
+.add{
+    color: #fff;
+    background-color: orange;
+}
+.edit{
+    color: #fff;
+    background-color: rgb(83, 196, 83)
+}
+.delete{
+    color: #fff;
+    background-color: #ff6f47;
+}
